@@ -1,0 +1,2 @@
+# gurugroboganbaru.js
+guru grobogan
